@@ -2,11 +2,13 @@
 
 - Used bootstrap tools & own styles.
 - Implemented responsive template
-- TASK 1- Landing Page
+  
+ # Task-1 :
+- Landing Page
 - IDE-VS Studio Code
 - Language- HTML CSS & BOOTSTRAP
 
-# OUTPUT :
+# Output :
 
 - Demo :
 
