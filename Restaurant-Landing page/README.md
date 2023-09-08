@@ -2,6 +2,9 @@
 
 - Used bootstrap tools & own styles.
 - Implemented responsive template
+- TASK 1- Landing Page
+-IDE-VS Studio Code
+-Language- HTML CSS & BOOTSTRAP
 
 # OUTPUT :
 
